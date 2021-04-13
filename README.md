@@ -1,4 +1,4 @@
 # Upload-image-crop-resize-PHP
 PHP Crop Image While Uploading with Cropper JS
 
-Demo: https://ameerhamza006.github.io/Upload-image-crop-resize-PHP/
+Demo: http://demo.webslesson.info/demo-crop-image-before-upload-using-cropperjs-with-php/
